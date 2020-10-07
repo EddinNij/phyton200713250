@@ -1,0 +1,3 @@
+a=float(input("ingrese el lado del cuadrado\n"))
+area=a*a
+print(str(area))
